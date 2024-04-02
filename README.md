@@ -1,3 +1,3 @@
 # StudyNotionLogin
 
-deployed on - https://testimonial-github.netlify.app
+deployed on - https://study-notion-login-signin.netlify.app
